@@ -1,6 +1,6 @@
 <!DOCTYPE HTML>
 <!--
-	Saferity.com | Malaysia Security Systems Provider in Malaysia | by EricTan
+	Saferity.com | Malaysia Security Systems Provider in Malaysia | by EricTan 
 -->
 <html>
 	<?php include_once ('Templates/header.php');?>
